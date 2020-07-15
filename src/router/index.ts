@@ -1,2 +1,1 @@
-export { createRouter } from './createRouter'
-export { routes as apiRoutes } from './api'
+export { router as apiRouter } from './api'
